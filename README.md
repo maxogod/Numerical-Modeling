@@ -1,7 +1,7 @@
 # Sistema Oscilatorio Amortiguado de un vehiculo
 
-* [Informe completo](https://github.com/maxogod/Modelacion-Numerica-TP/blob/main/informe.pdf)
-* [Notebook de analisis y resolucion](https://github.com/maxogod/Modelacion-Numerica-TP/blob/main/resolucion.ipynb)
+* [Informe completo](https://github.com/maxogod/Numerical-Modeling/blob/main/informe.pdf)
+* [Notebook de analisis y resolucion](https://github.com/maxogod/Numerical-Modeling/blob/main/resolucion.ipynb)
 
 **Se utilizan y se comparan diferentes metodos numericos** para efectuar un análisis del comportamiento dinámico del sistema de suspensión de un vehículo mediante un modelo matemático que representa un oscilador amortiguado bajo diferentes condiciones de excitación. El sistema de suspensión tiene como objetivo principal garantizar el confort de los pasajeros al reducir las aceleraciones verticales generadas por irregularidades en el terreno y mantener el contacto adecuado entre los neumáticos y el suelo, incrementando la seguridad en la conducción.
 
