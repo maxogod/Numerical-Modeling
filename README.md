@@ -1,6 +1,6 @@
 # Sistema Oscilatorio Amortiguado de un vehiculo
 
-[English version](https://github.com/maxogod/Numerical-Modeling/edit/main/README.eng.md)
+[English version](https://github.com/maxogod/Numerical-Modeling/blob/main/README.eng.md)
 
 * [Informe completo](https://github.com/maxogod/Numerical-Modeling/blob/main/informe.pdf)
 * [Notebook de analisis y resolucion](https://github.com/maxogod/Numerical-Modeling/blob/main/resolucion.ipynb)
